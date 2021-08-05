@@ -1,4 +1,4 @@
-使用vuecli完成：其中node_modules文件夹放在real
+使用vuecli完成：其中node_modules文件夹较大，放在Releases中
 # work4
 
 ## Project setup
