@@ -1,3 +1,4 @@
+使用vuecli完成：其中node_modules文件夹放在real
 # work4
 
 ## Project setup
